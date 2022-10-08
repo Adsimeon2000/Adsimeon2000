@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Adaramola Simeon
-#### I am a entry level Data analyst, professional Social Media Marketer and crypto enthusiasts
+#### I am a entry level Data analyst, professional Social Media Manager and crypto enthusiasts
 I am a young Nigerian data analyst who is looking for ways to upgrade his analysis skills by joining GitHub.
 
 Skills: PYTHON, EXCEL, SQL.
